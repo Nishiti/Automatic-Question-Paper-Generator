@@ -1,6 +1,5 @@
 <?php
 include 'registerdb.php';
-
 $fn=$_POST["fname"];
 $ln=$_POST["lname"];
 $month=$_POST["month"];
